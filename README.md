@@ -24,5 +24,5 @@ Este projeto é uma aplicação simples de lista de tarefas desenvolvida em Pyth
 4. Execute o script:
    python lista_de_tarefas.py
 
-📄 Licença
+# 📄 Licença
 Este projeto está sob a licença MIT.
